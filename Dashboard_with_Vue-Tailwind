@@ -1,0 +1,20 @@
+Install Visual Studio Code
+Install Node.js
+Install Vue CLI (Command Line Interface)
+# npm install -g @vue/cli
+Create a Vue Project
+# vue create [my-vue-project_name]
+Note: Choose the default preset or manually configure project.
+Navigate to the Project Directory
+# cd [my-vue-project_name]
+Open the Project in Visual Studio Code
+Use the terminal to open the project directory
+# code .
+Install VSCode Extensions (Optional)
+Some popular extensions for Vue.js development include "Vetur," "Vue 3 Snippets," and "Vue VSCode Snippets."
+Start the Development Server
+# npm run serve
+Start Coding
+
+
+
